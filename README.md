@@ -1,6 +1,5 @@
 # The-Ultimate-Bit-Tricks
-
-This blog has some stuff I’ve written over past 1 year  
+  
 
 ### Note - The code snippets here are in the public domain  — feel free to use them however you please. 
 
